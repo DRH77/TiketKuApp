@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TiketKu</string>
+
+    <string name="slogan">Wisata Jadi Lebih Seru !</string>
+    <string name="signin">SIGN IN</string>
+    <string name="newaccount">NEW ACCOUNT</string>
+    <string name="username_label1">Username</string>
+    <string name="password_label1">Password</string>
+    <string name="create_newaccount">Create New Account</string>
+    <string name="text2_register">Please fill up the forms below \nfor informations</string>
+    <string name="username_label2">Your Username</string>
+    <string name="password_label2">Your Password</string>
+    <string name="email_label1">Email Adress</string>
+    <string name="email_label2">Your Email Adress</string>
+    <string name="continue_label">Continue</string>
+    <string name="text1_register2">Selfie Time</string>
+    <string name="text2_register2">Let the world knows yourself \nmore better and ever</string>
+    <string name="name_label1">Name</string>
+    <string name="name_label2">Your Name</string>
+    <string name="bio_label1">Bio</string>
+    <string name="bio_label2">Your Hobby</string>
+    <string name="text1_success_register">You Are Great</string>
+    <string name="text2_success_register">Welcome to TiketKu \nand enjoy your tour</string>
+    <string name="explore">Explore Now</string>
+    <string name="mydashboard">My Dashboard</string>
+    <string name="buyticket">Buy Ticket</string>
+    <string name="ticketdetails">Ticket Details</string>
+    <string name="ticketdetails1">Check the amount of ticket</string>
+    <string name="pricing">Pricing</string>
+    <string name="yourbalance">Your current balance</string>
+    <string name="totalprice">Total Price</string>
+    <string name="paynow">Pay Now</string>
+    <string name="selamatmenikmati">Selamat Menikmati</string>
+    <string name="textberhasilticket">Anda berhasil membeli tiket \n dan selamat berlibur</string>
+    <string name="viewticket">View Ticket</string>
+    <string name="myticket">My Ticket</string>
+    <string name="myticketdetails">Explore the beauty of world</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="signout">Sign Out</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="information">Information</string>
+    <string name="text_editprofile">We highly suggest you to \n use the correct informations</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="refund_now">Refund Now</string>
+</resources>
